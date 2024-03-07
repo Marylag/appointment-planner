@@ -1,0 +1,63 @@
+#root {
+    background-image: url('background-image.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+/* AppointmentPage styles*/
+.appointments-container {
+    margin-top: 20px;
+}
+
+/* AppointmentForm styles */
+.appointment-form {
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+
+.appointment-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.appointment-form input,
+.appointment-form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.appointment-form button,
+.contact-form-button {
+    background-color: #007bff;
+    font-family: "Lato", sans-serif;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* ContactPicker styles */
+.contact-picker select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+/* TileList styles */
+.tile-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.tile-list-item {
+    margin-bottom: 10px;
+}
+
+.tile {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
