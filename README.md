@@ -10,21 +10,25 @@ To install and run the application locally, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/my-react-appointment-manager.git
+```
 
 2. Navigate to the project directory:
 
 ```bash
 cd my-react-appointment-manager
+```
 
 3. Install dependencies:
 
 ```bash
 npm install
+```
 
 4. Start the development server:
 
 ```bash
 npm start
+```
 
 ## Usage
 
